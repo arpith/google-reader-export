@@ -1,0 +1,20 @@
+{
+  "name": "google-reader-export",
+  "version": "0.0.0",
+  "description": "Grab your data from Google Reader",
+  "main": "google-reader-export.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arpith/google-reader-export.git"
+  },
+  "keywords": [
+    "Google Reader",
+    "export"
+  ],
+  "author": "Arpith Siromoney",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "google-oauth":"0.0.2"
+  }
+}
