@@ -14,7 +14,4 @@
   "author": "Arpith Siromoney",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "dependencies": {
-    "google-oauth":"0.0.2"
-  }
 }
