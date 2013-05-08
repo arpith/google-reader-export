@@ -1,5 +1,4 @@
-var OAuth = require('google-oauth')
-, url = require('url')
+var url = require('url')
 , http = require('http')
 , querystring = require('querystring')
 exports.authURI = function(scope,clientId,redirectURI){
