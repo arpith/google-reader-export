@@ -1,7 +1,7 @@
 google-reader-export
 ====================
 
-Node.js module to grab your data from Google Reader
+[Node.js](http://nodejs.org/) module to grab your data from Google Reader
 
 ## License
 
