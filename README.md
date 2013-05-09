@@ -3,6 +3,10 @@ google-reader-export
 
 [Node.js](http://nodejs.org/) module to grab your data from Google Reader
 
+## Installing
+
+    $ npm install -g google-reader-export
+
 ## License
 
 The MIT License (MIT)
